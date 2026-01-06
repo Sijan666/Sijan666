@@ -39,7 +39,7 @@
 
 - 📫 How to reach me: **[666majharulislam@gmail.com](mailto:666majharulislam@gmail.com)**
 
-- ⚡ Fun fact: **I can turn coffee ☕ into code 💻**
+- ⚡ Fun fact: **I can turn anything into code 💻**
 
 ---
 

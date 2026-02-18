@@ -7,11 +7,11 @@
 
 ---
 
--  I’m currently working on **[Roiser](https://github.com/Sijan666/roiserTeam)**
+-  I’m currently working on **[EduAct](https://github.com/Sijan666/eduActFigma)**
 
--  I’m currently learning **React JS**
+-  I’m currently learning **Next JS**
 
--  I’m looking to collaborate on **React Projects**
+-  I’m looking to collaborate on **NextJS Projects**
 
 -  I’m looking for help with **e-Commerce Solutions**
 

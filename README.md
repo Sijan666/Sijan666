@@ -7,7 +7,7 @@
 
 ---
 
--  I’m currently working on **[EduAct](https://github.com/Sijan666/eduActFigma)**
+-  I’m currently working on **[Creative Web & Software](https://github.com/Sijan666/creativeWeb)**
 
 -  I’m currently learning **Next JS**
 

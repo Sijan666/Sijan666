@@ -17,7 +17,7 @@
 
 -  All of my projects are available at **https://github.com/Sijan666**
 
--  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS , NextJS**
+-  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS, React Native, NextJS**
 
 -  How to reach me: **majharulislamsijan.dev@gmail.com**
 

@@ -48,7 +48,8 @@
 </div>
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sijan666&theme=dark&hide_border=false" alt="Sijan666 Streak" />
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Sijan666&theme=dark&hide_border=false" alt="Sijan666 Streak" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sijan666&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 

@@ -50,7 +50,8 @@
 <div align="center">
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Sijan666&theme=dark&hide_border=false" alt="Sijan666 Streak" /> -->
   <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sijan666&theme=dark&hide_border=false" alt="GitHub Streak" /></a> -->
-  <img src="https://streak-stats.demolab.com?user=sijan666&theme=default&theme=dark&hide_border=false" alt="sijan666's GitHub Stats" />
+  <!-- <img src="https://streak-stats.demolab.com?user=sijan666&theme=default&theme=dark&hide_border=false" alt="sijan666's GitHub Stats" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sijan666&theme=dark" alt="GitHub Stats">
 </div>
 
 

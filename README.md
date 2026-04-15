@@ -25,13 +25,21 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-<a href="https://fb.com/majharul.islam.666" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majharul.islam.666" height="30" width="40" /></a>
-<a href="https://instagram.com/majharul_sijan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majharul_sijan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/majharulislamsijan3734" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="majharulislamsijan3734" height="30" width="40" /></a>
-<a href="https://discord.gg/majharul_sijan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="majharul_sijan" height="30" width="40" /></a>
-</p>
+<!-- <h3 align="center">🌐 Connect with me</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <a href="https://fb.com/majharul.islam.666" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majharul.islam.666" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/majharul_sijan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majharul_sijan" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/majharulislamsijan3734" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="majharulislamsijan3734" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/majharul_sijan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="majharul_sijan" height="30" width="40" />
+  </a>
+</div> -->
 
 ---
 

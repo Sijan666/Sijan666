@@ -9,11 +9,9 @@
 
 -  I’m currently working on **[Creative Web & Software](https://github.com/Sijan666/creativeWeb)**
 
--  I’m currently learning **Next JS**
+-  I’m currently learning **Node JS**
 
 -  I’m looking to collaborate on **NextJS Projects**
-
--  I’m looking for help with **e-Commerce Solutions**
 
 -  All of my projects are available at **https://github.com/Sijan666**
 
@@ -23,27 +21,7 @@
 
 -  Fun fact: **I can turn anything into code**
 
----
-
-<!-- <h3 align="center">🌐 Connect with me</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <a href="https://fb.com/majharul.islam.666" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majharul.islam.666" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/majharul_sijan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majharul_sijan" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/majharulislamsijan3734" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="majharulislamsijan3734" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/majharul_sijan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="majharul_sijan" height="30" width="40" />
-  </a>
-</div> -->
-
----
-
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop,nextjs&theme=dark" />
 </p>
@@ -54,16 +32,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan666&theme=react-dark" alt="sijan666 Activity Graph" />
   </a>
 </div>
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Sijan666&theme=dark&hide_border=false" alt="Sijan666 Streak" /> -->
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sijan666&theme=dark&hide_border=false" alt="GitHub Streak" /></a> -->
-  <!-- <img src="https://streak-stats.demolab.com?user=sijan666&theme=default&theme=dark&hide_border=false" alt="sijan666's GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sijan666&theme=dark" alt="GitHub Stats"> -->
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sijan666&theme=github_dark" alt="GitHub Stats">
 </div>
-
-
-
-
-

@@ -6,16 +6,13 @@
 </p>
 
 ---
-
--  I’m currently working on **[Creative Web & Software](https://github.com/Sijan666/creativeWeb)**
-
 -  I’m currently learning **Node JS**
 
 -  I’m looking to collaborate on **NextJS Projects**
 
 -  All of my projects are available at **https://github.com/Sijan666**
 
--  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, ReactJS, React Native, NextJS**
+-  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, ReactJS, React Native, NextJS**
 
 -  How to reach me: **majharulislamsijan.dev@gmail.com**
 
@@ -23,7 +20,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,git,vscode,figma,bootstrap,photoshop,nextjs&theme=dark" />
 </p>
 
 ---

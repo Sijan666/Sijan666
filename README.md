@@ -63,8 +63,8 @@
 
 1. **Currently learning** — Node.js
 2. **Open to** — Next.js collaborations
-3. **Contact** — [majharulislamsijan.dev@gmail.com](mailto:majharulislamsijan.dev@gmail.com)
-4. **Portfolio** — [portfolio-majharul.vercel.app](https://portfolio-majharul.vercel.app/)
+3. **Contact** — `majharulislamsijan.dev@gmail.com`
+4. **Portfolio** — `portfolio-majharul.vercel.app`
 
 </td>
 <td width="50%" valign="top">

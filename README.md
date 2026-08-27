@@ -1,46 +1,3 @@
-<!-- <h1 align="center">Hi , I'm Majharul Islam Sijan</h1>
-<h3 align="center">I am a Front-End Developer from Bangladesh<br>Passionate about coding and problem-solving.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sijan666&label=Profile%20views&color=0e75b6&style=flat" alt="sijan666" />
-</p>
-
----
--  I’m currently learning **Node JS**
-
--  I’m looking to collaborate on **NextJS Projects**
-
--  All of my projects are available at **https://github.com/Sijan666**
-
--  Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, ReactJS, React Native, NextJS**
-
--  How to reach me: **majharulislamsijan.dev@gmail.com**
-
--  Fun fact: **I can turn anything into code**
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,git,vscode,figma,bootstrap,photoshop,nextjs&theme=dark" />
-</p>
-
----
-<div align="center">
-  <a href="https://github.com/sijan666">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan666&theme=react-dark" alt="sijan666 Activity Graph" />
-  </a>
-</div>
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sijan666&theme=github_dark" alt="GitHub Stats">
-</div> -->
-
-
-
-
-
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Majharul%20Islam%20Sijan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Bangladesh&descAlignY=58&descSize=18" alt="header" width="100%" />
@@ -83,11 +40,8 @@
 <br>
 
 <!-- <div align="center">
-
 ### Contribution Activity
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sijan666&theme=react-dark&bg_color=0D1117&color=2C5364&line=2C5364&point=C9D1D9&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-
 </div> -->
 
 <br>

@@ -31,7 +31,6 @@
 `HTML` `CSS` `JavaScript` `TypeScript`
 `React` `React Native` `Next.js`
 `Tailwind CSS` `Bootstrap`
-`Git` `Figma` `VS Code`
 
 </td>
 </tr>
